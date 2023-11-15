@@ -19,7 +19,7 @@ module.exports = {
   dl_limit: process.env.DL_SIZE || '300',
   art: process.env.AUTO_RESTART || 'true',
   sudo: process.env.SUDO || '94762280384',
-  alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
+  alivepic: process.env.ALIVE_IMG || 'https://textpro.me/images/user_image/2023/11/6554db94a7146.jpg',
   alivemsj: process.env.ALIVE_MSJ || '*Hҽყ  Tԋҽɾҽ  I`ɱ  Queen Tharu ||°* ♥️ 🪄
 
 🎗️ Hey Friends , 
